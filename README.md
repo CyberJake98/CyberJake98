@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Networking and Flying :) 
 - 🌱 I’m currently learning Kali Linux, Python and other networking topics
 - 💞️ I’m looking to collaborate on projects where network security is needed or creating networks.
-- 📫 How to reach me ....
+- 📫 How to reach me jacob.ragbir@outlook.com
 
 <!---
 CyberJake98/CyberJake98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
