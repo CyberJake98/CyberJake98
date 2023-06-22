@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberJake98
-- 👀 I’m interested in Cybersecurity, Networking and Flying :) 
+- 👀 I’m interested in Cybersecurity, Networking and Aviation
 - 🌱 I’m currently learning Kali Linux, Python and other networking topics
 - 💞️ I’m looking to collaborate on projects where network security is needed or creating networks.
 - 📫 How to reach me jacob.ragbir@outlook.com
